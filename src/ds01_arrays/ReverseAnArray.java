@@ -1,4 +1,4 @@
-package assignments.arrays;
+package ds01_arrays;
 
 import java.util.Arrays;
 

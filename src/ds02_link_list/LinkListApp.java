@@ -1,8 +1,4 @@
-package assignments.link_list;
-
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+package ds02_link_list;
 
 public class LinkListApp {
 

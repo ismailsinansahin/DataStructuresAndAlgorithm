@@ -1,4 +1,4 @@
-package assignments.link_list;
+package ds02_link_list;
 
 public class Node {
 
